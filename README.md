@@ -2,7 +2,7 @@
 
 ### Project Overview
 This project is a sleek, minimal landing page inspired by Apple's iconic design aesthetics. The page features a clean, modern look with smooth animations that bring a 3D model of the MacBook Pro to life as you scroll. The MacBook opens to reveal the screen, creating an immersive experience. Stylish text gradients and seamless transitions make the page feel polished and elegant, staying true to Apple's design principles.
-![Landing Page Preview](Screenshot 2024-11-09 000953.png)
+![Project Screenshot](images/Screenshot%202024-11-09%20000953.png)
 
 ### Features
 - **3D MacBook Animation**: A scroll-triggered animation opens the MacBook Pro to reveal the screen, enhancing visual engagement.
