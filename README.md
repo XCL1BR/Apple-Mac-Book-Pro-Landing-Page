@@ -15,3 +15,26 @@ This project is a sleek, minimal landing page inspired by Apple's iconic design 
 - **CSS3**: Used for styling, including gradients, animations, and responsive design.
 - **JavaScript**: Handles scroll-triggered animations for an interactive experience.
 - **Three.js (Optional)**: If used, it powers the 3D model and its animation.
+
+# Steps for Installation
+
+Follow these steps to set up your project with Vite, Tailwind, and necessary 3D libraries.
+
+## 1.Initialize Vite project
+```npm create vite@latest```
+
+## 2.Tailwind CSS
+```npm install -D tailwindcss postcss autoprefixer```
+```npx tailwindcss init -p```
+
+## 3.Three.js
+```npm install three```
+
+## 4.React Three Fiber
+```npm install three @types/three @react-three/fiber```
+
+## 5.Drei (for 3D primitives and helpers)
+```npm install @react-three/drei```
+
+## 6.You're all set!
+```npm run dev```
